@@ -1,0 +1,25 @@
+{
+    "name":        "bmatzner/jquery-ui-bundle",
+    "type":        "symfony-bundle",
+    "description": "jQuery UI Bundle for Symfony2",
+    "keywords":    ["jquery", "javascript", "ui", "symfony"],
+    "homepage":    "http://jqueryui.com/",
+    "license":     ["MIT", "GPLv2"],
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1",
+        "bmatzner/jquery-bundle":  "*"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\JQueryUIBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/JQueryUIBundle"
+}
