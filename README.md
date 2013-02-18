@@ -2,7 +2,7 @@
 
 ## Current Version
 
-jQuery UI v1.10.0
+jQuery UI v1.10.1
 
 ## Installation
 
@@ -67,7 +67,7 @@ Load jQuery and jQuery UI
 
 ``` html
 <script type="text/javascript" src="{{ asset('bundles/bmatznerjquery/js/jquery.min.js') }}"></script>
-<script type="text/javascript" src="{{ asset('bundles/bmatznerjqueryui/js/jquery-ui.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('bundles/bmatznerjqueryui/js/minified/jquery-ui.min.js') }}"></script>
 ```
 
 ## Licenses
