@@ -2,7 +2,7 @@
 
 ## Current Version
 
-jQuery UI v1.10.1
+jQuery UI v1.10.2
 
 ## Installation
 
